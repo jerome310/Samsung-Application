@@ -1,0 +1,23 @@
+body{
+   
+    font-family: 'SamsungOne',arial,sans-serif;
+}
+
+.header h6{
+    font-size: 3.88888889vw;
+    margin-bottom: 0;
+}
+
+.header h1{
+    text-align: center;
+    font-size: 8.33333333vw;
+}
+
+.header h2{
+    font-size: 3.88888889vw;
+}
+
+.header img{
+    width: 100%;
+    height: 200px;
+}
