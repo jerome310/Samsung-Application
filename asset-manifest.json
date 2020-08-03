@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Samsung-Application/static/css/main.58913191.chunk.css",
+    "main.js": "/Samsung-Application/static/js/main.229af283.chunk.js",
+    "main.js.map": "/Samsung-Application/static/js/main.229af283.chunk.js.map",
+    "runtime-main.js": "/Samsung-Application/static/js/runtime-main.982508e8.js",
+    "runtime-main.js.map": "/Samsung-Application/static/js/runtime-main.982508e8.js.map",
+    "static/js/2.b3847bfe.chunk.js": "/Samsung-Application/static/js/2.b3847bfe.chunk.js",
+    "static/js/2.b3847bfe.chunk.js.map": "/Samsung-Application/static/js/2.b3847bfe.chunk.js.map",
+    "index.html": "/Samsung-Application/index.html",
+    "precache-manifest.9df5b4936056da4b1e8ee7a8cefc56b2.js": "/Samsung-Application/precache-manifest.9df5b4936056da4b1e8ee7a8cefc56b2.js",
+    "service-worker.js": "/Samsung-Application/service-worker.js",
+    "static/css/main.58913191.chunk.css.map": "/Samsung-Application/static/css/main.58913191.chunk.css.map",
+    "static/js/2.b3847bfe.chunk.js.LICENSE.txt": "/Samsung-Application/static/js/2.b3847bfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.982508e8.js",
+    "static/js/2.b3847bfe.chunk.js",
+    "static/css/main.58913191.chunk.css",
+    "static/js/main.229af283.chunk.js"
+  ]
+}
